@@ -1,0 +1,10 @@
+*.rar
+*.zip
+BatDBug.bat
+DFiles
+Files/Mods/
+Files/*.txt
+Files/*.ini
+.doc
+.vscode
+Batch Obfuscator/
